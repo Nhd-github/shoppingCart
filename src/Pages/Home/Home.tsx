@@ -1,5 +1,4 @@
-import React, { useContext } from 'react'
-import {AiOutlineStar,AiFillStar} from 'react-icons/ai'
+import { useContext } from 'react'
 import { CartContext } from '../../Context/cartContext'
 import Card from '../../Components/Card/Card'
 

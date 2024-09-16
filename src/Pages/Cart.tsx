@@ -1,6 +1,6 @@
-import React, { useContext } from "react";
+import  { useContext } from "react";
 import "./Cart.css";
-import { AiFillStar, AiOutlineDelete, AiOutlineStar } from "react-icons/ai";
+import { AiFillStar, AiOutlineDelete } from "react-icons/ai";
 import { CartContext } from "../Context/cartContext";
 
 export default function Cart() {
